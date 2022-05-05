@@ -19,13 +19,13 @@ Down: Player 2 Down
 
 # Samurai Defense
 
-# Installation process:
+Installation process:
 Install Python and the pygame module using "pip install pygame" in the Windows Command Prompt. Make sure that the "sassets" folder is in the same location as "samurai.py".
 
-# Description
+Description:
 In this game, you are a samurai defending your castle against invading soldiers. Enemies spawn at the top of the screen and if they get to the bottom, your castle takes damage. To stop the enemies, shoot them with your bow and arrow. Enemies will also shoot back at you!
 
-# Controls:
+Controls:
 W: Move up
 
 A: Move left
