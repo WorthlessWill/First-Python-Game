@@ -4,10 +4,18 @@ There are descriptions for both games, controls and instructions for how to inst
 
 
 # Pong
-
-# Pong Description
 In this game, you and another player control paddles to deflect a moving ball. If you get the ball past the other player's side, you earn a point. 
 You need Python installed to play.
+
+Controls: 
+
+W: Player 1 Up
+
+S: Player 1 Down
+
+Up: Player 2 Up
+
+Down: Player 2 Down
 
 # Samurai Defense
 
@@ -19,7 +27,11 @@ In this game, you are a samurai defending your castle against invading soldiers.
 
 # Controls:
 W: Move up
+
 A: Move left
+
 S: Move down
+
 D: Move right
+
 Space: Shoot
